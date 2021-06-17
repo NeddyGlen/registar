@@ -1,2 +1,2 @@
 # Registar
-this is to apply
+This is to apply
